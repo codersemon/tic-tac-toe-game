@@ -58,6 +58,7 @@ function App() {
           <ul>{moves}</ul>
         </div>
       </div>
+      <p className="text-center fixed bottom-0 right-0 left-0 bg-lime-300">Design & Developed by <a href="https://github.com/codersemon">Emon Khan</a></p>
     </>
   );
 }
